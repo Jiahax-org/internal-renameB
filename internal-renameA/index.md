@@ -1,2 +1,2 @@
 # Welcome to internal-renameA!
-S
+S2
